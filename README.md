@@ -9,7 +9,7 @@
 </br>
 
 <h3 align="center">My Software-Hardware Skills:</h3>
-<h3 align="center"><strong>FPGA  &emsp; ESP32 &emsp;  IOT &emsp;  PCB &emsp;  VHDL</strong></h3>
+<h3 align="center"><strong> React &emsp;  Django &emsp; IOT &emsp;  FPGA  &emsp; ESP32 &emsp; VHDL &emsp;  PCB &emsp; </strong></h3>
 <p style="text-align:center;" align="center">
     <!--<img src="./icons/fpga.svg" alt="python" title="FPGA" width="45" height="15" />
   &emsp;
