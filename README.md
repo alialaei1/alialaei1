@@ -28,7 +28,7 @@ Feel free to explore my repositories to see my projects and implementations.
 <p align="center">
   <img src="./icons/flutter.svg" alt="Flutter" title="Flutter" width="40" height="40" />
   <img src="./icons/python.svg" alt="Python" title="Python" width="40" height="40" />
-  <img src="./icons/c.svg" alt="C" title="C" width="40" height="40" />
+  <!-- <img src="./icons/c.svg" alt="C" title="C" width="40" height="40" /> -->
   <img src="./icons/cplusplus-svgrepo-com.svg" alt="C++" title="C++" width="40" height="40" />
   <img src="./icons/git.svg" alt="Git" title="Git" width="40" height="40" />
 </p>
