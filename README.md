@@ -3,16 +3,16 @@
 
 <div align="center">
   <!-- <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=alialaei1&count_private=true&include_all_commits=false&show_icons=false&hide=prs,contribs" /> -->
-
-<img align="center" src=" https://github-stats-extended.vercel.app/api?username=alialaei1&theme=radical" />
+<a href="https://github-stats-extended.vercel.app/api?username=alialaei1"><img src="https://github-stats-extended.vercel.app/api?username=alialaei1"></a>
+<!-- <img align="center" src=" https://github-stats-extended.vercel.app/api?username=alialaei1&theme=radical" /> -->
 
  <!--   <a href="https://github-stats-extended.vercel.app/api?username=alialaei1"><img src="https://github-stats-extended.vercel.app/api?username=alialaei1"></a>-->
 
 </div >
 
-<br>
+<!-- <br> -->
 
-## About Me
+# About Me
 
 My primary focus is **Frontend Development with Flutter**, where I build responsive, high-performance cross-platform applications for **mobile** and **web**.
 
