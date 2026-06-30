@@ -4,9 +4,9 @@
 <div align="center">
   <!-- <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=alialaei1&count_private=true&include_all_commits=false&show_icons=false&hide=prs,contribs" /> -->
 
- <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alialaei1&layout=compact" />
+<img align="center" src=" https://github-stats-extended.vercel.app/api?username=alialaei1&theme=radical" />
 
-  <a href="https://github-stats-extended.vercel.app/api?username=alialaei1"><img src="https://github-stats-extended.vercel.app/api?username=alialaei1"></a>-->
+ <!--   <a href="https://github-stats-extended.vercel.app/api?username=alialaei1"><img src="https://github-stats-extended.vercel.app/api?username=alialaei1"></a>-->
 
 </div >
 
@@ -29,11 +29,11 @@ Feel free to explore my repositories to see my projects and implementations.
   </div >
   
 <p align="center">
-    <img src="./icons/python.svg" alt="Python" title="Python" width="40" height="40" />
-    <img src="./icons/flutter.svg" alt="Flutter" title="Flutter" width="40" height="40" />
-    <img src="./icons/c.svg" alt="C" title="C" width="40" height="40" />
-    <img src="./icons/cplusplus-svgrepo-com.svg" alt="C++" title="C++" width="40" height="40" />
-    <img src="./icons/git.svg" alt="Git" title="Git" width="40" height="40" />
+  <img src="./icons/flutter.svg" alt="Flutter" title="Flutter" width="40" height="40" />
+  <img src="./icons/python.svg" alt="Python" title="Python" width="40" height="40" />
+  <img src="./icons/c.svg" alt="C" title="C" width="40" height="40" />
+  <img src="./icons/cplusplus-svgrepo-com.svg" alt="C++" title="C++" width="40" height="40" />
+  <img src="./icons/git.svg" alt="Git" title="Git" width="40" height="40" />
 </p>
 
 ---
