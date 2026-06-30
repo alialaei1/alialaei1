@@ -3,7 +3,7 @@
 
 <div align="center">
   <!-- <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=alialaei1&count_private=true&include_all_commits=false&show_icons=false&hide=prs,contribs" /> -->
-<a href="https://github-stats-extended.vercel.app/api?username=alialaei1"><img src="https://github-stats-extended.vercel.app/api?username=alialaei1&theme=dark"></a>
+<a href="https://github-stats-extended.vercel.app/api?username=alialaei1"><img src="https://github-stats-extended.vercel.app/api?username=alialaei1&theme=system"></a>
 <!-- <img align="center" src=" https://github-stats-extended.vercel.app/api?username=alialaei1&theme=radical" /> -->
 
  <!--   <a href="https://github-stats-extended.vercel.app/api?username=alialaei1"><img src="https://github-stats-extended.vercel.app/api?username=alialaei1"></a>-->
