@@ -2,11 +2,11 @@
 <h3 align="center">Product Manager • Flutter Frontend Developer • Software-Hardware Engineer</h3>
 
 <div align="center">
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=alialaei1&count_private=true&include_all_commits=false&show_icons=false&hide=prs,contribs" />
+  <!-- <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=alialaei1&count_private=true&include_all_commits=false&show_icons=false&hide=prs,contribs" /> -->
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alialaei1&layout=compact" />
+ <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alialaei1&layout=compact" />
 
-  <a href="https://github-stats-extended.vercel.app/api?username=alialaei1"><img src="https://github-stats-extended.vercel.app/api?username=alialaei1"></a>
+  <a href="https://github-stats-extended.vercel.app/api?username=alialaei1"><img src="https://github-stats-extended.vercel.app/api?username=alialaei1"></a>-->
 
 </div>
     <a href="https://stats.hyo.dev/stats/hyochan"><img src="https://stats.hyo.dev/api/github-stats-advanced?login=alialaei1" width="600"/>
