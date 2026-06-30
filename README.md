@@ -9,10 +9,7 @@
   <a href="https://github-stats-extended.vercel.app/api?username=alialaei1"><img src="https://github-stats-extended.vercel.app/api?username=alialaei1"></a>-->
 
 </div >
-<div align="center">
-  <a href="https://stats.hyo.dev/stats/hyochan"><img src="https://stats.hyo.dev/api/github-stats-advanced?login=alialaei1" width="600"/>
-  </a>
-  </div >
+
 <br>
 
 ## About Me
@@ -25,6 +22,12 @@ Beyond software engineering, I bring several years of experience in **Product Ma
 
 Feel free to explore my repositories to see my projects and implementations.
 
+
+<div align="center">
+  <a href="https://stats.hyo.dev/stats/hyochan"><img src="https://stats.hyo.dev/api/github-stats-advanced?login=alialaei1" width="600"/>
+  </a>
+  </div >
+  
 <p align="center">
     <img src="./icons/python.svg" alt="Python" title="Python" width="40" height="40" />
     <img src="./icons/flutter.svg" alt="Flutter" title="Flutter" width="40" height="40" />
