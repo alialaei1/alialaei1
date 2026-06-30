@@ -1,39 +1,31 @@
 <h1 align="center">Ali Alaei</h1>
-<h3 align="center">Product manager and Software-Hardware developer</h3>
+<h3 align="center">Product Manager • Flutter Frontend Developer • Software-Hardware Engineer</h3>
 
-<div align="center"> 
- <!-- <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=alialaei1&count_private=true&include_all_commits=false&show_icons=false&hide=prs,contribs" /> -->
-  <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=alialaei1&layout=compact" />
+<div align="center">
+  <!-- <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=alialaei1&count_private=true&include_all_commits=false&show_icons=false&hide=prs,contribs" /> -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alialaei1&layout=compact" />
 </div>
 
-</br>
+<br>
 
-<h3 align="center">My Software-Hardware Skills:</h3>
-<h3 align="center"><strong> Flutter &emsp;  IOT &emsp; </strong></h3>
-<p style="text-align:center;" align="center">
-    <!--<img src="./icons/fpga.svg" alt="python" title="FPGA" width="45" height="15" />
-  &emsp;
-    <img src="./icons/esp.svg" alt="python" title="ESP" width="45" height="15" />
-  &emsp;
-    <img src="./icons/iot.svg" alt="python" title="IOT" width="37" height="14" />
-  &emsp;
-    <img src="./icons/pcb.svg" alt="python" title="PCB" width="37" height="14" />
-  &emsp;
-    <img src="./icons/vhdl.svg" alt="python" title="PCB" width="45" height="15" /> -->
-    <!--</br>-->
-    <!-- <img src="./icons/react.svg" alt="react" title="React" width="40" height="40" />
-    <img src="./icons/django.svg" alt="django" title="Django" width="40" height="40" />
-    <img src="./icons/javascript.svg" alt="javascript" title="JavaScript" width="40" height="40" /> -->
-    <img src="./icons/python.svg" alt="python" title="Python" width="40" height="40" />
-    <img src="./icons/flutter.svg" alt="flutter" title="Flutter" width="40" height="40" />
-    <img src="./icons/c.svg" alt="c" title="c" width="40" height="40" />
-    <img src="./icons/cplusplus-svgrepo-com.svg" alt="c++" title="c++" width="40" height="40" />
-    <img src="./icons/git.svg" alt="git" title="Git" width="40" height="40" />
-    <!-- <img src="./icons/html-5.svg" alt="html" title="HTML" width="40" height="40" />
-    <img src="./icons/css3.svg" alt="css" title="CSS" width="40" height="40" /> -->
+## About Me
+
+My primary focus is **Frontend Development with Flutter**, where I build responsive, high-performance cross-platform applications for **mobile** and **web**.
+
+Alongside frontend development, I have a solid background in **Python** and **system-level software development**, enabling me to better understand backend integration, REST APIs, and software architecture. This helps me create frontend solutions that are scalable, maintainable, and technically aligned with the overall system.
+
+Beyond software engineering, I bring several years of experience in **Product Management** and **R&D leadership**. This experience allows me to bridge the gap between business requirements and technical implementation, transforming ideas into structured, production-ready products.
+
+Feel free to explore my repositories to see my projects and implementations.
+
+<p align="center">
+    <img src="./icons/python.svg" alt="Python" title="Python" width="40" height="40" />
+    <img src="./icons/flutter.svg" alt="Flutter" title="Flutter" width="40" height="40" />
+    <img src="./icons/c.svg" alt="C" title="C" width="40" height="40" />
+    <img src="./icons/cplusplus-svgrepo-com.svg" alt="C++" title="C++" width="40" height="40" />
+    <img src="./icons/git.svg" alt="Git" title="Git" width="40" height="40" />
 </p>
 
+---
 
-<ul>
-    <li>📫 How to reach me: <b><a href="a.alaei.ei@gmail.com">a.alaei.ei@gmail.com</a></b></li>
-</ul>
+- 📫 **Email:** **<a href="mailto:a.alaei.ei@gmail.com">a.alaei.ei@gmail.com</a>**
