@@ -23,10 +23,7 @@ Beyond software engineering, I bring several years of experience in **Product Ma
 Feel free to explore my repositories to see my projects and implementations.
 
 
-<div align="center">
-  <a href="https://stats.hyo.dev/stats/hyochan"><img src="https://stats.hyo.dev/api/github-stats-advanced?login=alialaei1" width="600"/>
-  </a>
-  </div >
+
   
 <p align="center">
   <img src="./icons/flutter.svg" alt="Flutter" title="Flutter" width="40" height="40" />
@@ -39,3 +36,9 @@ Feel free to explore my repositories to see my projects and implementations.
 ---
 
 - 📫 **Email:** **<a href="mailto:a.alaei.ei@gmail.com">a.alaei.ei@gmail.com</a>**
+
+
+<div align="center">
+  <a href="https://stats.hyo.dev/stats/hyochan"><img src="https://stats.hyo.dev/api/github-stats-advanced?login=alialaei1" width="600"/>
+  </a>
+  </div >
