@@ -9,7 +9,7 @@
 </br>
 
 <h3 align="center">My Software-Hardware Skills:</h3>
-<h3 align="center"><strong> React &emsp;  Django &emsp; IOT &emsp;  FPGA  &emsp; ESP32 &emsp; VHDL &emsp;  PCB &emsp; </strong></h3>
+<h3 align="center"><strong> Flutter &emsp;  IOT &emsp; </strong></h3>
 <p style="text-align:center;" align="center">
     <!--<img src="./icons/fpga.svg" alt="python" title="FPGA" width="45" height="15" />
   &emsp;
@@ -21,15 +21,16 @@
   &emsp;
     <img src="./icons/vhdl.svg" alt="python" title="PCB" width="45" height="15" /> -->
     <!--</br>-->
-     <img src="./icons/react.svg" alt="react" title="React" width="40" height="40" />
-     <img src="./icons/django.svg" alt="django" title="Django" width="40" height="40" />
-      <img src="./icons/javascript.svg" alt="javascript" title="JavaScript" width="40" height="40" />
+    <!-- <img src="./icons/react.svg" alt="react" title="React" width="40" height="40" />
+    <img src="./icons/django.svg" alt="django" title="Django" width="40" height="40" />
+    <img src="./icons/javascript.svg" alt="javascript" title="JavaScript" width="40" height="40" /> -->
     <img src="./icons/python.svg" alt="python" title="Python" width="40" height="40" />
+    <img src="./icons/flutter.svg" alt="flutter" title="Flutter" width="40" height="40" />
     <img src="./icons/c.svg" alt="c" title="c" width="40" height="40" />
     <img src="./icons/cplusplus-svgrepo-com.svg" alt="c++" title="c++" width="40" height="40" />
     <img src="./icons/git.svg" alt="git" title="Git" width="40" height="40" />
-    <img src="./icons/html-5.svg" alt="html" title="HTML" width="40" height="40" />
-    <img src="./icons/css3.svg" alt="css" title="CSS" width="40" height="40" />
+    <!-- <img src="./icons/html-5.svg" alt="html" title="HTML" width="40" height="40" />
+    <img src="./icons/css3.svg" alt="css" title="CSS" width="40" height="40" /> -->
 </p>
 
 
