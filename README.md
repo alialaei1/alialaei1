@@ -2,7 +2,7 @@
 <h3 align="center">Product Manager • Flutter Frontend Developer • Software-Hardware Engineer</h3>
 
 <div align="center">
-  <!-- <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=alialaei1&count_private=true&include_all_commits=false&show_icons=false&hide=prs,contribs" /> -->
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=alialaei1&count_private=true&include_all_commits=false&show_icons=false&hide=prs,contribs" />
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alialaei1&layout=compact" />
 
